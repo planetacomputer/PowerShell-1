@@ -1,1 +1,1 @@
-Write-Output "Hello World"
+#01.ps1 Escriu "Hello World" en PowerShell
